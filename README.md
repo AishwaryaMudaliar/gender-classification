@@ -1,4 +1,4 @@
-# gender-classification
+gender-classification
 WE are making a gender classification model with the help of cnn,convolutional neural networks
 
 Using this corpus we will train our model bases on neural networks to get a model which can classify images (containing faces) as male and females images respectively.
